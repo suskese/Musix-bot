@@ -1,0 +1,9 @@
+/.env
+/.venv
+/cache
+/wrapper_settings.json
+/__pycache__
+/cache
+__pycache__
+audio_files
+application.yml
